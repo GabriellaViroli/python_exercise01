@@ -1,3 +1,9 @@
+"""
+Criar um sistema quer permita o usuário cadastrar o nome, cpf e data de nascimento, 
+salvar os dados num csv (use pandas) e que seja possível exportar os dados cadastrados, 
+porém ocultando os 8 últimos digitos (exemplo: 851********)
+"""
+
 from datetime import datetime
 import pandas as pd
 
